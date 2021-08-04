@@ -545,12 +545,12 @@ class PlayState extends MusicBeatState
 					{
 						curStage = 'soulSprings';
 
-						defaultCamZoom = 0.60;
+						defaultCamZoom = 0.7;	//TODO: set to around 0.8 in final 
 
 						var bg:FlxSprite = new FlxSprite(-1200, -500);
 						bg.loadGraphic(Paths.image('soulSprings/baseBg'));
 						bg.antialiasing = true;
-						bg.scrollFactor.set(0.9, 0.9);
+						bg.scrollFactor.set(1, 1);
 						bg.active = false;
 						bg.updateHitbox();
 						add(bg);
@@ -559,41 +559,40 @@ class PlayState extends MusicBeatState
 						waterfall.frames = Paths.getSparrowAtlas('soulSprings/waterfall');
 						waterfall.animation.add('waterfallLoop', [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], 24);
 		                waterfall.animation.play('waterfallLoop');
-	                    waterfall.scrollFactor.set(0.9, 0.9);
+	                    waterfall.scrollFactor.set(1, 1);
 	                    waterfall.setGraphicSize(Std.int(waterfall.width * 1));
 						waterfall.antialiasing = true;
 		                add(waterfall);
 
-						/*
-						var waterfallMist:FlxSprite  = new FlxSprite(-1200, -500);
+						var waterfallMist:FlxSprite  = new FlxSprite(-220, 0);
 						waterfallMist.frames = Paths.getSparrowAtlas('soulSprings/MIST');
-						waterfallMist.animation.add('waterfallMistLoop', [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], 24);
+						waterfallMist.animation.add('waterfallMistLoop', [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 9, 8, 7, 6, 5, 4, 3, 2], 24);
 		                waterfallMist.animation.play('waterfallMistLoop');
-	                    waterfallMist.scrollFactor.set(0.9, 0.9);
+	                    waterfallMist.scrollFactor.set(1, 1);
 	                    waterfallMist.setGraphicSize(Std.int(waterfallMist.width * 1));
 						waterfallMist.antialiasing = true;
 		                add(waterfallMist);
 
-						//bro skele is smart i didnt even know we needed this LOL
-						var newFloorLayer:FlxSprite = new FlxSprite(-1200, -500);
+						var newFloorLayer:FlxSprite = new FlxSprite(-1200, 368);
 						newFloorLayer.loadGraphic(Paths.image('soulSprings/ground'));
 						newFloorLayer.antialiasing = true;
-						newFloorLayer.scrollFactor.set(0.9, 0.9);
+						newFloorLayer.scrollFactor.set(1, 1);
 						newFloorLayer.active = false;
 						newFloorLayer.updateHitbox();
 						add(newFloorLayer);
 
-						//Torches bob
-						var torches:FlxSprite  = new FlxSprite(-1200, -500);
+						var torches:FlxSprite  = new FlxSprite(-1000, 170);
 						torches.frames = Paths.getSparrowAtlas('soulSprings/orange_torches');
-						torches.animation.addByPrefix('bop', 'orangeu', 24, false);
+						//torches.animation.add('torchesBop', [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13], 24);
+						torches.animation.addByPrefix('bop', 'orangeu', 24);
 		                torches.animation.play('bop');
-	                    torches.scrollFactor.set(0.9, 0.9);
-	                    torches.setGraphicSize(Std.int(waterfallMist.width * 1));
+	                    torches.scrollFactor.set(1, 1);
+						torches.active = false;
+						torches.updateHitbox();
+	                    torches.setGraphicSize(Std.int(torches.width * 1));
 						torches.antialiasing = true;
 		                add(torches);
 
-						*/
 					}
 
 		          default:
@@ -687,7 +686,9 @@ class PlayState extends MusicBeatState
 				camPos.set(dad.getGraphicMidpoint().x + 300, dad.getGraphicMidpoint().y);
 
 			case 'lune':
-				dad.x -= 300;
+				dad.x -= 450;
+				dad.y += 50;
+				camPos.set(dad.getGraphicMidpoint().x + 300, dad.getGraphicMidpoint().y);
 		}
 
 		boyfriend = new Boyfriend(770, 450, SONG.player1);
@@ -728,10 +729,10 @@ class PlayState extends MusicBeatState
 				gf.y += 300;
 
 			case 'soulSprings':
-				boyfriend.x += 100;
-				boyfriend.y += 300;
-				gf.y += 200;
-				gf.x -= 400;
+				boyfriend.x += 0;
+				boyfriend.y += 200;
+				gf.y += 100;
+				gf.x -= 330;
 		}
 
 		add(gf);
@@ -1575,6 +1576,10 @@ class PlayState extends MusicBeatState
 						camFollow.y = boyfriend.getMidpoint().y - 200;
 					case 'schoolEvil':
 						camFollow.x = boyfriend.getMidpoint().x - 200;
+						camFollow.y = boyfriend.getMidpoint().y - 200;
+
+					case 'soulSprings':
+						//camFollow.x = boyfriend.getMidpoint().x - 200;
 						camFollow.y = boyfriend.getMidpoint().y - 200;
 				}
 

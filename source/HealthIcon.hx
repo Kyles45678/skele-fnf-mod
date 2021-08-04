@@ -35,9 +35,9 @@ class HealthIcon extends FlxSprite
 		animation.add('monster', [19, 20], 0, false, isPlayer);
 		animation.add('monster-christmas', [19, 20], 0, false, isPlayer);
 
-		animation.add('lune', [30, 31], 0, false, isPlayer);
-		animation.add('ivory', [35, 36], 0, false, isPlayer);
-		animation.add('lune-corrupt', [39, 40], 0, false, isPlayer);
+		animation.add('lune', [24, 25], 0, false, isPlayer);
+		animation.add('ivory', [28, 29], 0, false, isPlayer);
+		animation.add('lune-corrupt', [31, 32], 0, false, isPlayer);
 		
 		animation.play(char);
 		scrollFactor.set();

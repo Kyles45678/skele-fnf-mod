@@ -499,10 +499,10 @@ class Character extends FlxSprite
 			case 'lune':
 				frames = Paths.getSparrowAtlas('lune_sheet');
 				animation.addByPrefix('idle', 'lune idle normal', 24, false);
-				animation.addByPrefix('singUP', 'lune up', 24, false);
-				animation.addByPrefix('singDOWN', 'lune down', 24, false);
-				animation.addByPrefix('singLEFT', 'lune left', 24, false);
-				animation.addByPrefix('singRIGHT', 'lune right', 24, false);
+				animation.addByPrefix('singUP', 'lune up normal', 24, false);
+				animation.addByPrefix('singDOWN', 'lune down normal', 24, false);
+				animation.addByPrefix('singLEFT', 'lune left normal', 24, false);
+				animation.addByPrefix('singRIGHT', 'lune right normal', 24, false);
 				//animation.addByPrefix('hey', 'lune hey', 24, false);
 
 				addOffset('idle');

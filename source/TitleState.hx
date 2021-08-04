@@ -294,14 +294,17 @@ class TitleState extends MusicBeatState
 
 				var version:String = "v" + Application.current.meta.get('version');
 
-				if (version.trim() != NGio.GAME_VER_NUMS.trim() && !OutdatedSubState.leftState)
+				//my syntax check thing aint working in vscode and idfk haxe
+				//i fucked this up like 6 times and gave up trying to make it nice so now we have this, deal wit it
+				
+				if (false)	//version.trim() != NGio.GAME_VER_NUMS.trim() && !OutdatedSubState.leftState
 				{
-					FlxG.switchState(new OutdatedSubState());
-					trace('OLD VERSION!');
-					trace('old ver');
-					trace(version.trim());
-					trace('cur ver');
-					trace(NGio.GAME_VER_NUMS.trim());
+					//FlxG.switchState(new OutdatedSubState());
+					//trace('OLD VERSION!');
+					//trace('old ver');
+					//trace(version.trim());
+					//trace('cur ver');
+					//trace(NGio.GAME_VER_NUMS.trim());
 				}
 				else
 				{

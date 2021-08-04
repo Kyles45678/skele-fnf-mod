@@ -170,9 +170,12 @@ class StoryMenuState extends MusicBeatState
 				case 'parents-christmas':
 					weekCharacterThing.setGraphicSize(Std.int(weekCharacterThing.width * 0.9));
 					weekCharacterThing.updateHitbox();
-				case 'lune':
-					weekCharacterThing.setGraphicSize(Std.int(weekCharacterThing.width * 0.9));
+				default:		//case 'lune'
+					weekCharacterThing.setGraphicSize(Std.int(weekCharacterThing.width * 2));
+					weekCharacterThing.y -= 300;
+					weekCharacterThing.x -= 300;
 					weekCharacterThing.updateHitbox();
+					
 			}
 
 			grpWeekCharacters.add(weekCharacterThing);
