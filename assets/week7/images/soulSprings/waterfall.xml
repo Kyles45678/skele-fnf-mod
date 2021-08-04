@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="waterfall.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aominoa0000" x="0" y="0" width="2978" height="1700"/>
+	<SubTexture name="aominoa0001" x="0" y="0" width="2978" height="1700"/>
+	<SubTexture name="aominoa0002" x="2978" y="0" width="2978" height="1700"/>
+	<SubTexture name="aominoa0003" x="2978" y="0" width="2978" height="1700"/>
+	<SubTexture name="aominoa0004" x="0" y="1700" width="2978" height="1700"/>
+	<SubTexture name="aominoa0005" x="0" y="1700" width="2978" height="1700"/>
+	<SubTexture name="aominoa0006" x="2978" y="1700" width="2978" height="1700"/>
+	<SubTexture name="aominoa0007" x="2978" y="1700" width="2978" height="1700"/>
+	<SubTexture name="aominoa0008" x="0" y="0" width="2978" height="1700"/>
+	<SubTexture name="aominoa0009" x="0" y="0" width="2978" height="1700"/>
+	<SubTexture name="aominoa0010" x="2978" y="0" width="2978" height="1700"/>
+	<SubTexture name="aominoa0011" x="2978" y="0" width="2978" height="1700"/>
+	<SubTexture name="aominoa0012" x="0" y="1700" width="2978" height="1700"/>
+	<SubTexture name="aominoa0013" x="0" y="1700" width="2978" height="1700"/>
+	<SubTexture name="aominoa0014" x="0" y="1700" width="2978" height="1700"/>
+</TextureAtlas>

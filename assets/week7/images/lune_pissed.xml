@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lune_pissed.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry lune down0000" x="0" y="0" width="459" height="833" frameX="-13" frameY="-23" frameWidth="472" frameHeight="863"/>
+	<SubTexture name="angry lune down0001" x="0" y="0" width="459" height="833" frameX="-13" frameY="-23" frameWidth="472" frameHeight="863"/>
+	<SubTexture name="angry lune down0002" x="459" y="0" width="430" height="863" frameX="0" frameY="0" frameWidth="472" frameHeight="863"/>
+	<SubTexture name="angry lune down0003" x="459" y="0" width="430" height="863" frameX="0" frameY="0" frameWidth="472" frameHeight="863"/>
+	<SubTexture name="angry lune down0004" x="459" y="0" width="430" height="863" frameX="0" frameY="0" frameWidth="472" frameHeight="863"/>
+	<SubTexture name="angry lune down0005" x="459" y="0" width="430" height="863" frameX="0" frameY="0" frameWidth="472" frameHeight="863"/>
+	<SubTexture name="angry lune down0006" x="459" y="0" width="430" height="863" frameX="0" frameY="0" frameWidth="472" frameHeight="863"/>
+	<SubTexture name="angry lune down0007" x="459" y="0" width="430" height="863" frameX="0" frameY="0" frameWidth="472" frameHeight="863"/>
+	<SubTexture name="angry lune down0008" x="459" y="0" width="430" height="863" frameX="0" frameY="0" frameWidth="472" frameHeight="863"/>
+	<SubTexture name="angry lune down0009" x="459" y="0" width="430" height="863" frameX="0" frameY="0" frameWidth="472" frameHeight="863"/>
+	<SubTexture name="angry lune idle0000" x="889" y="0" width="447" height="904" frameX="0" frameY="-22" frameWidth="447" frameHeight="926"/>
+	<SubTexture name="angry lune idle0001" x="889" y="0" width="447" height="904" frameX="0" frameY="-22" frameWidth="447" frameHeight="926"/>
+	<SubTexture name="angry lune idle0002" x="1336" y="0" width="431" height="898" frameX="-13" frameY="-27" frameWidth="447" frameHeight="926"/>
+	<SubTexture name="angry lune idle0003" x="1336" y="0" width="431" height="898" frameX="-13" frameY="-27" frameWidth="447" frameHeight="926"/>
+	<SubTexture name="angry lune idle0004" x="1767" y="0" width="417" height="901" frameX="-27" frameY="-22" frameWidth="447" frameHeight="926"/>
+	<SubTexture name="angry lune idle0005" x="1767" y="0" width="417" height="901" frameX="-27" frameY="-22" frameWidth="447" frameHeight="926"/>
+	<SubTexture name="angry lune idle0006" x="2184" y="0" width="424" height="907" frameX="-20" frameY="-16" frameWidth="447" frameHeight="926"/>
+	<SubTexture name="angry lune idle0007" x="2184" y="0" width="424" height="907" frameX="-20" frameY="-16" frameWidth="447" frameHeight="926"/>
+	<SubTexture name="angry lune idle0008" x="2608" y="0" width="426" height="923" frameX="-18" frameY="0" frameWidth="447" frameHeight="926"/>
+	<SubTexture name="angry lune idle0009" x="2608" y="0" width="426" height="923" frameX="-18" frameY="0" frameWidth="447" frameHeight="926"/>
+	<SubTexture name="angry lune idle0010" x="2608" y="0" width="426" height="923" frameX="-18" frameY="0" frameWidth="447" frameHeight="926"/>
+	<SubTexture name="angry lune idle0011" x="2608" y="0" width="426" height="923" frameX="-18" frameY="0" frameWidth="447" frameHeight="926"/>
+	<SubTexture name="angry lune idle0012" x="2608" y="0" width="426" height="923" frameX="-18" frameY="0" frameWidth="447" frameHeight="926"/>
+	<SubTexture name="angry lune idle0013" x="2608" y="0" width="426" height="923" frameX="-18" frameY="0" frameWidth="447" frameHeight="926"/>
+	<SubTexture name="angry lune idle0014" x="2608" y="0" width="426" height="923" frameX="-18" frameY="0" frameWidth="447" frameHeight="926"/>
+	<SubTexture name="angry lune left0000" x="3034" y="0" width="576" height="929" frameX="0" frameY="0" frameWidth="588" frameHeight="933"/>
+	<SubTexture name="angry lune left0001" x="3034" y="0" width="576" height="929" frameX="0" frameY="0" frameWidth="588" frameHeight="933"/>
+	<SubTexture name="angry lune left0002" x="0" y="929" width="580" height="918" frameX="-8" frameY="-15" frameWidth="588" frameHeight="933"/>
+	<SubTexture name="angry lune left0003" x="0" y="929" width="580" height="918" frameX="-8" frameY="-15" frameWidth="588" frameHeight="933"/>
+	<SubTexture name="angry lune left0004" x="580" y="929" width="580" height="918" frameX="-8" frameY="-15" frameWidth="588" frameHeight="933"/>
+	<SubTexture name="angry lune left0005" x="580" y="929" width="580" height="918" frameX="-8" frameY="-15" frameWidth="588" frameHeight="933"/>
+	<SubTexture name="angry lune left0006" x="580" y="929" width="580" height="918" frameX="-8" frameY="-15" frameWidth="588" frameHeight="933"/>
+	<SubTexture name="angry lune left0007" x="580" y="929" width="580" height="918" frameX="-8" frameY="-15" frameWidth="588" frameHeight="933"/>
+	<SubTexture name="angry lune left0008" x="580" y="929" width="580" height="918" frameX="-8" frameY="-15" frameWidth="588" frameHeight="933"/>
+	<SubTexture name="angry lune left0009" x="580" y="929" width="580" height="918" frameX="-8" frameY="-15" frameWidth="588" frameHeight="933"/>
+	<SubTexture name="angry lune right0000" x="1160" y="929" width="444" height="893" frameX="0" frameY="0" frameWidth="452" frameHeight="893"/>
+	<SubTexture name="angry lune right0001" x="1160" y="929" width="444" height="893" frameX="0" frameY="0" frameWidth="452" frameHeight="893"/>
+	<SubTexture name="angry lune right0002" x="1604" y="929" width="447" height="891" frameX="-5" frameY="-2" frameWidth="452" frameHeight="893"/>
+	<SubTexture name="angry lune right0003" x="1604" y="929" width="447" height="891" frameX="-5" frameY="-2" frameWidth="452" frameHeight="893"/>
+	<SubTexture name="angry lune right0004" x="1604" y="929" width="447" height="891" frameX="-5" frameY="-2" frameWidth="452" frameHeight="893"/>
+	<SubTexture name="angry lune right0005" x="1604" y="929" width="447" height="891" frameX="-5" frameY="-2" frameWidth="452" frameHeight="893"/>
+	<SubTexture name="angry lune right0006" x="1604" y="929" width="447" height="891" frameX="-5" frameY="-2" frameWidth="452" frameHeight="893"/>
+	<SubTexture name="angry lune right0007" x="1604" y="929" width="447" height="891" frameX="-5" frameY="-2" frameWidth="452" frameHeight="893"/>
+	<SubTexture name="angry lune right0008" x="1604" y="929" width="447" height="891" frameX="-5" frameY="-2" frameWidth="452" frameHeight="893"/>
+	<SubTexture name="angry lune right0009" x="1604" y="929" width="447" height="891" frameX="-5" frameY="-2" frameWidth="452" frameHeight="893"/>
+	<SubTexture name="angry lune up0000" x="2051" y="929" width="477" height="917" frameX="0" frameY="-3" frameWidth="479" frameHeight="922"/>
+	<SubTexture name="angry lune up0001" x="2051" y="929" width="477" height="917" frameX="0" frameY="-3" frameWidth="479" frameHeight="922"/>
+	<SubTexture name="angry lune up0002" x="2528" y="929" width="475" height="922" frameX="-4" frameY="0" frameWidth="479" frameHeight="922"/>
+	<SubTexture name="angry lune up0003" x="3003" y="929" width="475" height="922" frameX="-4" frameY="0" frameWidth="479" frameHeight="922"/>
+	<SubTexture name="angry lune up0004" x="3478" y="929" width="475" height="922" frameX="-4" frameY="0" frameWidth="479" frameHeight="922"/>
+	<SubTexture name="angry lune up0005" x="3478" y="929" width="475" height="922" frameX="-4" frameY="0" frameWidth="479" frameHeight="922"/>
+	<SubTexture name="angry lune up0006" x="3478" y="929" width="475" height="922" frameX="-4" frameY="0" frameWidth="479" frameHeight="922"/>
+	<SubTexture name="angry lune up0007" x="3478" y="929" width="475" height="922" frameX="-4" frameY="0" frameWidth="479" frameHeight="922"/>
+	<SubTexture name="angry lune up0008" x="3478" y="929" width="475" height="922" frameX="-4" frameY="0" frameWidth="479" frameHeight="922"/>
+	<SubTexture name="angry lune up0009" x="3478" y="929" width="475" height="922" frameX="-4" frameY="0" frameWidth="479" frameHeight="922"/>
+</TextureAtlas>

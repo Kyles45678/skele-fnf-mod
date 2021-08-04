@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="coatgone.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lunestrip0000" x="0" y="0" width="385" height="910" frameX="-1075" frameY="-53" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0001" x="0" y="0" width="385" height="910" frameX="-1075" frameY="-53" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0002" x="0" y="0" width="385" height="910" frameX="-1075" frameY="-53" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0003" x="385" y="0" width="385" height="910" frameX="-1075" frameY="-53" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0004" x="385" y="0" width="385" height="910" frameX="-1075" frameY="-53" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0005" x="770" y="0" width="385" height="910" frameX="-1075" frameY="-53" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0006" x="770" y="0" width="385" height="910" frameX="-1075" frameY="-53" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0007" x="1155" y="0" width="421" height="918" frameX="-1039" frameY="-45" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0008" x="1155" y="0" width="421" height="918" frameX="-1039" frameY="-45" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0009" x="1576" y="0" width="421" height="918" frameX="-1039" frameY="-45" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0010" x="1576" y="0" width="421" height="918" frameX="-1039" frameY="-45" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0011" x="1997" y="0" width="449" height="926" frameX="-1011" frameY="-37" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0012" x="2446" y="0" width="449" height="926" frameX="-1011" frameY="-37" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0013" x="2446" y="0" width="449" height="926" frameX="-1011" frameY="-37" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0014" x="2895" y="0" width="449" height="926" frameX="-1011" frameY="-37" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0015" x="2895" y="0" width="449" height="926" frameX="-1011" frameY="-37" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0016" x="3344" y="0" width="552" height="950" frameX="-985" frameY="-13" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0017" x="3344" y="0" width="552" height="950" frameX="-985" frameY="-13" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0018" x="3896" y="0" width="569" height="963" frameX="-969" frameY="0" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0019" x="3896" y="0" width="569" height="963" frameX="-969" frameY="0" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0020" x="4465" y="0" width="568" height="960" frameX="-979" frameY="-3" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0021" x="5033" y="0" width="569" height="960" frameX="-979" frameY="-3" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0022" x="5033" y="0" width="569" height="960" frameX="-979" frameY="-3" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0023" x="5602" y="0" width="504" height="911" frameX="-1062" frameY="-52" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0024" x="5602" y="0" width="504" height="911" frameX="-1062" frameY="-52" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0025" x="6106" y="0" width="463" height="911" frameX="-1062" frameY="-52" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0026" x="6569" y="0" width="493" height="911" frameX="-965" frameY="-52" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0027" x="7062" y="0" width="723" height="905" frameX="-735" frameY="-58" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0028" x="7062" y="0" width="723" height="905" frameX="-735" frameY="-58" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0029" x="0" y="963" width="1003" height="905" frameX="-455" frameY="-58" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0030" x="1003" y="963" width="1017" height="909" frameX="-455" frameY="-54" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0031" x="2020" y="963" width="1192" height="909" frameX="-280" frameY="-54" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0032" x="3212" y="963" width="1192" height="909" frameX="-280" frameY="-54" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0033" x="4404" y="963" width="1271" height="909" frameX="-201" frameY="-54" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0034" x="5675" y="963" width="1271" height="909" frameX="-201" frameY="-54" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0035" x="0" y="1872" width="1300" height="929" frameX="-172" frameY="-54" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0036" x="0" y="1872" width="1300" height="929" frameX="-172" frameY="-54" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0037" x="1300" y="1872" width="1461" height="949" frameX="-11" frameY="-53" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0038" x="2761" y="1872" width="1472" height="949" frameX="0" frameY="-53" frameWidth="1566" frameHeight="1002"/>
+	<SubTexture name="lunestrip0039" x="2761" y="1872" width="1472" height="949" frameX="0" frameY="-53" frameWidth="1566" frameHeight="1002"/>
+</TextureAtlas>
